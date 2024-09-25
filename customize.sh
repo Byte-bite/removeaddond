@@ -22,6 +22,10 @@ REPLACE_EXAMPLE="/system/app/Youtube
 # Construct your own list here
 REPLACE=""
 
+REMOVE="
+/system/addon.d
+"
+
 ##############
 # Permissions
 ##############
