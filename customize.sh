@@ -20,11 +20,9 @@ REPLACE_EXAMPLE="/system/app/Youtube
 /system/framework"
 
 # Construct your own list here
-REPLACE=""
+#REPLACE=""
 
-REMOVE="
-/system/addon.d
-"
+REMOVE="/system/addon.d"
 
 ##############
 # Permissions
